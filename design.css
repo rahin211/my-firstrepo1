@@ -1,0 +1,17 @@
+h1{
+    color: rgb(28, 14, 150);
+    margin-left: 30vw;
+}
+.author-name{
+    color: rgb(3, 3, 3);
+}
+.first{
+    color:wheat;
+    background-color: seagreen;
+    margin: 10px;
+    padding: 5px;
+    width: 50vw;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: justify;
+}
